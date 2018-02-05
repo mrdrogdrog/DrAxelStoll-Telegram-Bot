@@ -7,4 +7,4 @@ Dieses Repo beeinhaltet die Datei mit den Regex und den dazu gehörigen Antworte
 
 Die eingesetzte Software für den Bot ist [https://bitbucket.org/mrdrogdrog/regex2reply-telegram-bot]
 
-Unterstützung ist gerne gesehen.
+Unterstützung via Issue oder PullRequest ist erwünscht und gerne gesehen.
