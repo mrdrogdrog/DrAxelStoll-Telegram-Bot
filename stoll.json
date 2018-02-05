@@ -1,0 +1,13 @@
+{
+        "apikey": "[APIKEY]",
+        "timeout": 300,
+        "behaviour": {
+                "(muss man wissen)": [
+                        "Und wer weiß das?"
+                ],
+                "(wer weiß das)": [
+                        "wieder keiner.."
+                ]
+        }
+}
+
